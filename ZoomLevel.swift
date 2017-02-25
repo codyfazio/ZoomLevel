@@ -4,7 +4,7 @@
 //  Created by Cody Fazio on 2/24/17.
 //
 //
-/* A Swift Implementation of MKMapViewZoom, an Objective C category for 
+/* A Swift implementation of MKMapViewZoom, an Objective C category for 
  adding zoom level support. MKMapViewZoom was written by Troy Brant,
  and is found here: 
  http://troybrant.net/blog/2010/01/mkmapview-and-zoom-levels-a-visual-guide/
